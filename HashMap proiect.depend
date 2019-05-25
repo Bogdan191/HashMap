@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558812470 source:c:\users\bogda\onedrive\desktop\hashmap proiect\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+
